@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 
 * Assignment [[PDF]](https://github.com/pipeton8/6.864-advanced-nlp/blob/main/Assignments/Assignment%202/Assignment%202.pdf)
 * Solution [[NOT YET!]]()
