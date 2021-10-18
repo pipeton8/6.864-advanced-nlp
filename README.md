@@ -17,5 +17,5 @@ Repository for the course 6.864 - Advanced NLP at MIT (Fall 2021-2022)
 ## Assignment 2
 
 * Assignment [[PDF]](https://github.com/pipeton8/6.864-advanced-nlp/blob/main/Assignments/Assignment%202/Assignment%202.pdf)
-* Report [[NOT YET!]]()
+* Solution [[PDF]](https://github.com/pipeton8/6.864-advanced-nlp/blob/main/Assignments/Assignment%202/Assignment%202%20(Solution).pdf)
 * Colab notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pipeton8/6.864-advanced-nlp/blob/main/Assignments/Assignment%202/hw2.ipynb)
